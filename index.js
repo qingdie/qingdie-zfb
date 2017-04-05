@@ -1,0 +1,1 @@
+﻿module.exports.pay = require('./lib/pay');
